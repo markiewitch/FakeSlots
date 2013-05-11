@@ -1,0 +1,20 @@
+main: com.gmail.marszczybrew1.fakeslots.FakeSlots
+author: marszczybrew
+version: 1.4
+prefix: FakeSlots
+load: STARTUP
+name: FakeSlots
+website: http://www.dev.bukkit.org/server-mods/fakeslots
+commands:
+  fakeslots:
+    usage: /fakeslots <reset/reload/[number of slots]>
+    permission: fakeslots.fake
+    description: Allows control over fake slots number.
+  realslots:
+    usage: /realslots <reset/[number of slots]>
+    permission: fakeslots.real
+    description: Gives you control over slots management.
+  slotsinfo:
+    usage: /slotsinfo
+    permission: fakeslots.info
+    description: Tells you how many fake and real slots you actually have.

@@ -1,0 +1,12 @@
+only-numbers: Only numbers accepted in this case!
+fakeslots-set: Fake slots set succesfully to %s.
+realslots-set: You succesfully set real slots limit to %s.
+slots-reset: You've succesfully resetted number of slots to %s.
+reload: Succesfully reloaded plugin.
+error: Error!
+full-kick: I'm sorry, but the server is full. Come back later!
+banned-kick: You are banned from this server.
+need-help: If you need help, go to the plugin's website or just execute 'help FakeSlots' command ;)
+fslots-state: Actually you have %s fake slots.
+rslots-state: And the number of real slots is %s.
+updateAvailable: An update for FakeSlots is available! Go and pick it up at %s

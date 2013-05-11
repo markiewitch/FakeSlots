@@ -1,0 +1,2 @@
+# Welcome in configuration file for FakeSlots plugin!! You can now change messages in file named "messages.yml"
+# This plugin is using anonymous stats tracking. You can disable them by changing "opt-out" option in "plugins/PluginMetrics/config.yml" to true.
